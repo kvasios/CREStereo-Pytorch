@@ -153,4 +153,5 @@ cython_debug/
 
 vis_results/
 models/*
+!models/crestereo_eth3d.pth
 test_data/*
